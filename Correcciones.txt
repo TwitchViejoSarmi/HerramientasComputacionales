@@ -1,0 +1,7 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+	a)Un tipo de error que puede ocurrir en el sistema es cuando se solicitan los datos el usuario e ingrese un dato diferente a un numero.
+	b)Otro tipo de error es cuando el usuario ingresa un código de un producto que no esté en la base de datos "precios".
+
+2. Que estrategias podría usar para solucionar estos errores?
+	a)Para solucionar el primer error es implementar un ciclo que verifique que lo ingresado sea un numero.
+	b)Para solucionar el segundo error es hacer un ciclo que verfifique que el numero ingresado esté en la base de datos "precios".
