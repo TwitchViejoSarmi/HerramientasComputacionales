@@ -1,4 +1,4 @@
-# Herramientas Computacionales
+# Parcial Herramientas Computacionales
 _Por: Alejandro Sarmiento Rivera y Juan Esteban Becerra_
 
 ## Problema:
